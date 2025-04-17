@@ -1,0 +1,78 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./frontend.jpeg",
+      "title": "Front-End Development",
+      "description": "Building user-friendly and responsive web interfaces using React, HTML, CSS, and JavaScript to ensure a smooth and engaging user experience."
+    },
+    {
+      "id": "2",
+      "src": "./backend.jpeg",
+      "title": "Back-End Development",
+      "description": "Developing robust server-side applications with Node.js, Express, and integrating databases like MongoDB, MySQL, and SQL to power dynamic web applications."
+    },
+    {
+      "id": "3",
+      "src": "./python.jpeg",
+      "title": "Python Development",
+      "description": "Utilizing Python for backend development, automation tasks, and building scalable, intelligent systems for real-world applications."
+    },
+    {
+      "id": "4",
+      "src": "./dsa.jpeg",
+      "title": "Data Structures & Algorithms",
+      "description": "Implementing and optimizing DSA concepts to solve complex problems with efficient and scalable solutions, both for academics and practical use cases."
+    },
+    {
+      "id": "5",
+      "src": "./c++.png",
+      "title": "C++ Programming",
+      "description": "Writing high-performance applications using C++, with a focus on strong object-oriented programming principles and efficient algorithm design."
+    },
+    {
+      "id": "6",
+      "src": "./git.png",
+      "title": "Version Control (Git & GitHub)",
+      "description": "Working with Git for version control and utilizing GitHub to manage projects, collaborate with teammates, and maintain code integrity."
+    },
+    {
+      "id": "7",
+      "src": "./docker.png",
+      "title": "Docker & Containerization",
+      "description": "Using Docker to create isolated environments for development and deployment, ensuring consistency across different stages of the project lifecycle."
+    }
+  ],
+  
+  
+  
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./mobile.png",
+      "title": "SmartCall",
+      "description": "SmartCall is a real-time video conferencing app that allows users to create/join calls, share screens, and collaborate seamlessly. Built with React, Node.js, and WebRTC, this project showcases my ability to implement real-time communication features with scheduling and notifications.",
+      "github": "https://github.com/yourgithub/smartcall",
+      "live": "https://your-live-link-for-smartcall.com"
+    },
+    {
+      "id": "2",
+      "src": "./ai-dashboard.png",
+      "title": "AI-Dashboard",
+      "description": "AI-Dashboard is a clean and responsive dashboard built using React, Vite, and Tailwind CSS. It's fast, minimal, and ready to be supercharged with AI features, showcasing my front-end development skills and ability to build scalable applications.",
+      "github": "https://github.com/yourgithub/ai-dashboard",
+      "live": "https://your-live-link-for-ai-dashboard.com"
+    },
+    {
+      "id": "3",
+      "src": "./portfolio.png",
+      "title": "Portfolio",
+      "description": "This is my personal portfolio where I showcase my skills, projects, and experiences. It's built with React, Vite, and Tailwind CSS, providing a responsive and minimalistic design for visitors to explore my work.",
+      "github": "https://github.com/yourgithub/portfolio",
+      "live": "https://your-live-link-for-portfolio.com"
+    }
+  ]
+  }
+  
+  
+  
