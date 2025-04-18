@@ -52,24 +52,24 @@
       "src": "./mobile.png",
       "title": "SmartCall",
       "description": "SmartCall is a real-time video conferencing app that allows users to create/join calls, share screens, and collaborate seamlessly. Built with React, Node.js, and WebRTC, this project showcases my ability to implement real-time communication features with scheduling and notifications.",
-      "github": "https://github.com/yourgithub/smartcall",
-      "live": "https://your-live-link-for-smartcall.com"
+      "github": "https://github.com/tassu1/Smartcall",
+      "live": "#"
     },
     {
       "id": "2",
       "src": "./ai-dashboard.png",
       "title": "AI-Dashboard",
       "description": "AI-Dashboard is a clean and responsive dashboard built using React, Vite, and Tailwind CSS. It's fast, minimal, and ready to be supercharged with AI features, showcasing my front-end development skills and ability to build scalable applications.",
-      "github": "https://github.com/yourgithub/ai-dashboard",
-      "live": "https://your-live-link-for-ai-dashboard.com"
+      "github": "https://github.com/tassu1/Ai-Dashboard",
+      "live": "https://ai-dashboard-two-zeta.vercel.app/"
     },
     {
       "id": "3",
       "src": "./portfolio.png",
       "title": "Portfolio",
       "description": "This is my personal portfolio where I showcase my skills, projects, and experiences. It's built with React, Vite, and Tailwind CSS, providing a responsive and minimalistic design for visitors to explore my work.",
-      "github": "https://github.com/yourgithub/portfolio",
-      "live": "https://your-live-link-for-portfolio.com"
+      "github": "https://github.com/tassu1/portfolio",
+      "live": "https://portfolio-tahseen.vercel.app/"
     }
   ]
   }

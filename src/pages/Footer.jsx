@@ -9,7 +9,7 @@ function Footer() {
         <ul>
           <li>
             <a
-              href="https://www.linkedin.com/"
+              href="https://www.linkedin.com/in/md-tahseen-alam-892317263/"
               className="navbar--content"
               target="_blank"
               rel="noreferrer"
@@ -29,7 +29,7 @@ function Footer() {
           </li>
           <li>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/mdta_hseen/"
               className="navbar--content"
               target="_blank"
               rel="noreferrer"
@@ -39,7 +39,7 @@ function Footer() {
           </li>
           <li>
             <a
-              href="https://github.com/"
+              href="https://github.com/tassu1/"
               className="navbar--content"
               target="_blank"
               rel="noreferrer"
