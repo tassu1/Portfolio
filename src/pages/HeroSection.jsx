@@ -7,7 +7,7 @@ export default function HeroSection() {
             Heyy, I'm Tahseen
           </h1>
           <p className="hero--section-description">
-            A passionate MERN stack developer who loves building scalable web applications and real-time solutions. Currently, I’m diving deep into AI-driven projects while continuously improving my problem-solving and DSA skills. Always learning and growing to make an impact in the tech world.
+            A passionate <strong>Fullstack developer</strong> who loves building scalable web applications and real-time solutions. Currently, I’m diving deep into AI-driven projects while continuously improving my problem-solving and DSA skills. Always learning and growing to make an impact in the tech world.
           </p>
         </div>
         <div className="hero--section--img">
